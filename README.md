@@ -135,9 +135,9 @@ An agentic automation system designed to reduce repetitive admin and customer co
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/umar0224">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umar0224&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar0224&theme=tokyonight&layout=compact&hide_border=true" />
+  <a href="https://github.com/umarjavaid4335">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umarjavaid4335&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarjavaid4335&theme=tokyonight&layout=compact&hide_border=true" />
   </a>
 </p>
 
