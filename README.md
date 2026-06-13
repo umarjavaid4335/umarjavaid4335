@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/umar0224?tab=repositories">
+  <a href="https://github.com/umarjavaid4335?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-0B1026?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6D28D9" />
   </a>
   <a href="https://www.linkedin.com/in/umar-javaid-23403839a">
@@ -23,14 +23,14 @@
   <a href="mailto:umarjavaid4335@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1026?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" />
   </a>
-  <a href="https://github.com/umar0224">
+  <a href="https://github.com/umarjavaid4335">
     <img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=white&labelColor=312E81" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar0224&style=flat-square&color=7C3AED&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/umar0224?style=flat-square&color=8B5CF6&labelColor=0B1026&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=umarjavaid4335&style=flat-square&color=7C3AED&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/umarjavaid4335?style=flat-square&color=8B5CF6&labelColor=0B1026&label=Followers" />
   <img src="https://img.shields.io/github/stars/umar0224?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=4F46E5&labelColor=0B1026&label=Stars" />
 </p>
 
